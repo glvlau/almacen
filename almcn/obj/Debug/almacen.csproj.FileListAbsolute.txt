@@ -1,0 +1,10 @@
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\bin\Debug\almacen.exe
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\bin\Debug\almacen.pdb
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\ResolveAssemblyReference.cache
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\almacen.Form1.resources
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\almacen.Properties.Resources.resources
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\almacen.csproj.GenerateResource.Cache
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\almacen.exe
+D:\usuarios\alumno\documentos\Visual Studio 2008\Projects\almacen\almacen\obj\Debug\almacen.pdb
+D:\usuarios\alumno\escritorio\almacen\almacen\almacen\obj\Debug\almacen.exe
+D:\usuarios\alumno\escritorio\almacen\almacen\almacen\obj\Debug\almacen.pdb

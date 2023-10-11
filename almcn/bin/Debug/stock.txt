@@ -1,0 +1,6 @@
+cinta;400*1000
+pegamento;200*1500
+tinta;90*1400
+tijeras;70*1150
+hojas;500*2400
+

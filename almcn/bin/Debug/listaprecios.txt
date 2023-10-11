@@ -1,0 +1,5 @@
+cinta*2000
+pegamento*4000
+tinta*7000
+carton*1000
+tijeras*5000
